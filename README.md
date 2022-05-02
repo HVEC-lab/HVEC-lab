@@ -1,5 +1,3 @@
 - Hi, you have reached HVEC-lab, the GitHub space of Hessel Voortman Engineering Consultancy (HVEC).
 - HVEC is an independent expert on flood defence and hydraulic engineering that uses Python for data analysis and hydraulic analyses (flow and waves).
-- Under "HVEC-lab" we share two things:
-  - Packages useful for practitioners in my field
-  - Scripts and packages made in the course of my independent research in various topics related to climate change and sea level rise
+- Under "HVEC-lab" we share packages useful for practitioners in my field
